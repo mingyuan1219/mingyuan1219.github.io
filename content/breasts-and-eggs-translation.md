@@ -5,9 +5,11 @@
   "kind": "article",
   "topic": "Books & Culture",
   "status": "published",
-  "date": null,
+  "date": "2024-02-18",
   "description": "Comparing Japanese, Chinese, and English versions of Mieko Kawakami’s Breasts and Eggs, and what changes between languages.",
-  "players": []
+  "players": [],
+  "source_url": "https://substack.com/@mingyuan1219/note/c-49864346",
+  "date_source": "Publication date supplied by author from Substack note"
 }
 ---
 
