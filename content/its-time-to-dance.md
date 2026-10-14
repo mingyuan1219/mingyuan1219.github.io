@@ -12,6 +12,9 @@
   ],
   "aliases": [
     "itsTimeToDance/"
+  ],
+  "recording_links": [
+    "https://soundcloud.com/ming_y/its-time-to-dance"
   ]
 }
 ---

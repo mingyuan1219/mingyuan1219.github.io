@@ -12,6 +12,9 @@
   ],
   "aliases": [
     "flowingOnTheStream/"
+  ],
+  "recording_links": [
+    "https://soundcloud.com/ming_y/flowing-on-the-stream"
   ]
 }
 ---
