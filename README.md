@@ -1,6 +1,6 @@
 # ALL UNDISCOVERED
 
-Ming Yuan’s Markdown blog, ready for GitHub Pages. Thirteen published articles and six music pages migrated from my1219.today. Original URLs are preserved as directory routes. Python runs during the build; visitors receive static HTML.
+Ming Yuan’s Markdown blog, ready for GitHub Pages. Eleven selected articles and six music pages: ten historical articles from the Super/GitHub archive and the author-selected Breasts and Eggs translation essay. Original URLs are preserved as directory routes. Python runs during the build; visitors receive static HTML.
 
 ## Local preview
 
@@ -42,4 +42,4 @@ Keep Super serving the domain while testing the Pages site. Verify ownership of 
 
 ## Migration scope
 
-The 12 pages linked on the current homepage were migrated from their live rendered content. Seven additional articles were recovered from the existing GitHub archive. The build contains 50 compressed local image assets and eight SoundCloud recording embeds. The images were optimized from approximately 103 MB to 5 MB. No Obsidian project notes, private letters, credentials, or unselected essays are included. This is a homepage-linked inventory, not a claim that no unlinked pages exist. SoundCloud remains an external service. Page text is preserved; the homepage and About introduction are proposed new copy for review.
+The 12 pages linked on the current homepage were migrated from their live rendered content. Four additional historical articles are retained from the existing GitHub archive. Three recovered essays (emotion/nature, public expression, and LLMs) were omitted at the author’s request; the Breasts and Eggs essay was added from the supplied Markdown. The build contains 50 compressed local image assets and eight SoundCloud recording embeds. The images were optimized from approximately 103 MB to 5 MB. No Obsidian project notes, private letters, credentials, or unselected essays are included. Breasts and Eggs retains its original wording with comparison headings and an additional-notes section; its original date is unknown. This is a homepage-linked inventory, not a claim that no unlinked pages exist. SoundCloud remains an external service. Article wording is preserved; the homepage and About introduction are proposed new copy for review.
