@@ -11,7 +11,8 @@
   "date_source": "Historical blog publication date",
   "aliases": [
     "2022/08/17/charleyChinaman/"
-  ]
+  ],
+  "description": "译自 Carl Gudbranson《寻找昨日》：1914 年，罗伯茨角的一段相遇。"
 }
 ---
 

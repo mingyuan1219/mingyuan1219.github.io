@@ -10,7 +10,8 @@
   "aliases": [
     "2019/05/12/anEdibleHistoryOfHumanity/"
   ],
-  "players": []
+  "players": [],
+  "description": "从饮食的历史出发，讨论人口、资源、工业化与人的生活。"
 }
 ---
 

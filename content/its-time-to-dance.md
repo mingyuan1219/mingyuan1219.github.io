@@ -15,7 +15,8 @@
   ],
   "recording_links": [
     "https://soundcloud.com/ming_y/its-time-to-dance"
-  ]
+  ],
+  "description": "A song for my younger sister, written in 2023 and released in 2024."
 }
 ---
 

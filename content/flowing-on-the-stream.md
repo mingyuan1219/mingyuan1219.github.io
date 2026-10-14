@@ -15,7 +15,8 @@
   ],
   "recording_links": [
     "https://soundcloud.com/ming_y/flowing-on-the-stream"
-  ]
+  ],
+  "description": "A song written on the occasion of my engagement in 2022."
 }
 ---
 

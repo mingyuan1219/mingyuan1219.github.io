@@ -10,7 +10,8 @@
   "aliases": [
     "2020/03/21/fullmetal/"
   ],
-  "players": []
+  "players": [],
+  "description": "从世界观到人物与情感，重访《钢之炼金术师》的两种动画版本与原作。"
 }
 ---
 

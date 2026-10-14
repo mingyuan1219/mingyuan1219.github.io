@@ -10,7 +10,8 @@
   "aliases": [
     "2020/03/23/eread/"
   ],
-  "players": []
+  "players": [],
+  "description": "电子阅读的习惯、工具与体验，以及对 Kindle 的花式赞美。"
 }
 ---
 

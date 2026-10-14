@@ -11,7 +11,8 @@
   "date_source": "Historical blog publication date",
   "aliases": [
     "2022/09/09/theLyingLifeOfAdults/"
-  ]
+  ],
+  "description": "弗兰特笔下的少女如何走出父亲的权力，又面对新的依附与诱惑。"
 }
 ---
 

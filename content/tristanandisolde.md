@@ -11,7 +11,8 @@
   "date_source": "Historical blog publication date",
   "aliases": [
     "2022/11/03/tristanAndIsolde/"
-  ]
+  ],
+  "description": "Returning to Wagner at Seattle Opera, and hearing an old fascination differently."
 }
 ---
 

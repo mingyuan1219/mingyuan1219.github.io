@@ -11,7 +11,8 @@
   "date_source": "Historical blog publication date",
   "aliases": [
     "2020/03/19/iMessage/"
-  ]
+  ],
+  "description": "表情、游戏与私人对话：2020 年的一份 iMessage 使用体验。"
 }
 ---
 

@@ -11,7 +11,8 @@
   "date_source": "Historical blog publication date",
   "aliases": [
     "2022/06/25/abortionInAmerica/"
-  ]
+  ],
+  "description": "Reading James Mohr on the historical forces behind the criminalization of abortion in America."
 }
 ---
 

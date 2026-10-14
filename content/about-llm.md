@@ -10,7 +10,8 @@
   "aliases": [
     "2023/06/04/aboutLLM/"
   ],
-  "players": []
+  "players": [],
+  "description": "2023 年的阶段性记录：从语言游戏出发，讨论 LLM 与真正对话之间的距离。"
 }
 ---
 

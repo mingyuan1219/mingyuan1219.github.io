@@ -10,7 +10,8 @@
   "aliases": [
     "2020/05/28/magi/"
   ],
-  "players": []
+  "players": [],
+  "description": "制度、观念与温柔的少年故事：《魔笛 MAGI》观看笔记。"
 }
 ---
 

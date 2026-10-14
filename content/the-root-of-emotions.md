@@ -10,7 +10,8 @@
   "aliases": [
     "2021/03/14/theRootOfEmotions/"
   ],
-  "players": []
+  "players": [],
+  "description": "从滑雪、艺术与自然出发，尝试理解情绪的来源与真实体验的力量。"
 }
 ---
 

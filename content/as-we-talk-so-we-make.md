@@ -10,7 +10,8 @@
   "aliases": [
     "2021/03/18/asWeTalkSoWeMake/"
   ],
-  "players": []
+  "players": [],
+  "description": "On finding a voice, speaking in public, and refusing to stop talking."
 }
 ---
 

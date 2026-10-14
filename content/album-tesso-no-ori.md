@@ -10,7 +10,8 @@
   "players": [
     "https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1469132626&show_artwork=true",
     "https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1586503207&show_artwork=true"
-  ]
+  ],
+  "description": "Compositions inspired by Natsuhiko Kyogoku’s 鉄鼠の檻."
 }
 ---
 
