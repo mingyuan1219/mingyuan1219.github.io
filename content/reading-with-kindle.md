@@ -41,8 +41,8 @@
 ### 书库优势
 
 虽然Kindle的书库优势并不总是十分显著, 但仍然可以满足大部分人在大部分时间的阅读. 同一系列的书籍(在网页中)可以选择查看全系列的书籍, 并可以选择单独购买其中某一本或直接购买全系列. 同时, 可以选择将系列中已经买过的书籍隐藏起来.  
-![](/assets/legacy/2020/03/23/eread/4.PNG)  
-![](/assets/legacy/2020/03/23/eread/5.PNG)
+![](/assets/legacy/2020/03/23/eread/4.jpg)  
+![](/assets/legacy/2020/03/23/eread/5.jpg)
 
 昨天发现美亚上还有很多[漫画](https://www.amazon.com/Ghost-Shell-Vol-1-ebook/dp/B01NA69LSR/ref=sr_1_1?dchild=1&keywords=ghost+in+the+shell&qid=1585075035&s=digital-text&sr=1-1), 很多(如[新52](https://www.amazon.com/52-Vol-1-Geoff-Johns-ebook/dp/B01EZG38XK/ref=sr_1_1?dchild=1&keywords=new+52&qid=1585075079&s=digital-text&sr=1-1))还包含在[Kindle Unlimited](https://www.amazon.com/kindle-dbs/hz/subscribe/ku?ref_=sv_kstore_2&_encoding=UTF8&shoppingPortalEnabled=true)里. 而且很有趣的是日漫Kindle版本(在iPad上)基本都是从右往左翻阅, 美漫是从左往右翻阅, 攻壳机动队也是从左往右翻阅. 横屏阅读时, 日漫会同时显示两页内容并仍然默认从右向左翻阅, 即模拟真实漫画的阅读体验(方便阅读大跨页内容), 美漫默认变为滚动模式.
 
@@ -114,7 +114,7 @@ Kindle会显示推送过的samples, 关联到亚马逊账号的book list(your li
 
 对于一些经常需要来回翻阅的书籍, 电子书的体验迄今无法达到纸质书的体验.
 
-![](/assets/legacy/2020/03/23/eread/1.jpeg)  
+![](/assets/legacy/2020/03/23/eread/1.jpg)  
 Kindle在这上面作出的努力首先是, 点击屏幕调出进度条的页面时, 屏幕中间仍然会显示书页内容(可以让人完全看清其中的内容), 在来回拖动进度条的代表阅读进度(位置)的小圆点时, 书页内容也会跟着前后滑动(变化), 方便人更好的选择要跳到的位置. 这个设计在Kindle阅读器上也相同.
 
 Kindle mobile端的另外一点努力是, 当你选中跳转到某一页面后, 进度条上会在这一页面的位置留下一个小圆点, 同时跳转前最后阅读的页面会同样留下一个标记那个位置的小圆点, 方便跳回(调出调整进度的页面时, 也会在页面的左下角或右下角提供跳转到最近的”小圆点”的选项).
@@ -153,9 +153,9 @@ Mac端的Kindle设计上就没有阅读器/mobile端”精巧”, 而且只能�
 
 之所以特别喜爱它, 是因为高亮/划线的内容可以很方便的分级做导图.
 
-![](/assets/legacy/2020/03/23/eread/2.PNG)  
+![](/assets/legacy/2020/03/23/eread/2.jpg)  
 高亮的内容会生成一个可编辑的模块(双击模块可进行编辑), 在Outline视图下通过向右/向左拖动, 可以将该模块进行分级, 在MindMap视图下, 会直接生成一个可编辑的导图.  
-![](/assets/legacy/2020/03/23/eread/3.PNG)
+![](/assets/legacy/2020/03/23/eread/3.jpg)
 
 同时可以进行制作flashcards(我真的很少会使用flashcards). outline/mindset/book/flashcards可以各自分享到Anki, OmniOuliner, MindManager&iThoughts, Evernote及MS Word. 也可以讲笔记内容和书籍重新导出为PDF格式, 同时可以通过Mail/AirDrop分享笔记.
 

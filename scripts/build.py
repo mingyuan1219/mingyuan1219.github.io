@@ -23,7 +23,7 @@ for f in (ROOT/'content').glob('*.md'):
  if meta.get('status')!='published':continue
  if not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',meta['slug']):raise ValueError('Use lowercase URL slugs')
  if meta.get('date'):date.fromisoformat(meta['date'])
- meta['html']=markdown.markdown(meta['body'],extensions=['extra','sane_lists','toc'])
+ meta['html']=markdown.markdown(meta['body'],extensions=['extra','sane_lists','toc']).replace('<img ', '<img loading="lazy" decoding="async" ')
  meta['html']=re.sub(r'(src|href)="/assets/',lambda m:m[1]+'="'+url('assets/'),meta['html'])
  text=re.sub('<[^>]+>',' ',meta['html']);text=html.unescape(re.sub(r'\s+',' ',text)).strip()
  meta['excerpt']=meta.get('description') or (text[:155]+'…' if len(text)>155 else text)
